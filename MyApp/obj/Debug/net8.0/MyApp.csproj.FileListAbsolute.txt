@@ -1,0 +1,15 @@
+/workspaces/MultiStageDcokerLab/MyApp/bin/Debug/net8.0/MyApp
+/workspaces/MultiStageDcokerLab/MyApp/bin/Debug/net8.0/MyApp.deps.json
+/workspaces/MultiStageDcokerLab/MyApp/bin/Debug/net8.0/MyApp.runtimeconfig.json
+/workspaces/MultiStageDcokerLab/MyApp/bin/Debug/net8.0/MyApp.dll
+/workspaces/MultiStageDcokerLab/MyApp/bin/Debug/net8.0/MyApp.pdb
+/workspaces/MultiStageDcokerLab/MyApp/obj/Debug/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MultiStageDcokerLab/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfoInputs.cache
+/workspaces/MultiStageDcokerLab/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfo.cs
+/workspaces/MultiStageDcokerLab/MyApp/obj/Debug/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/workspaces/MultiStageDcokerLab/MyApp/obj/Debug/net8.0/MyApp.sourcelink.json
+/workspaces/MultiStageDcokerLab/MyApp/obj/Debug/net8.0/MyApp.dll
+/workspaces/MultiStageDcokerLab/MyApp/obj/Debug/net8.0/refint/MyApp.dll
+/workspaces/MultiStageDcokerLab/MyApp/obj/Debug/net8.0/MyApp.pdb
+/workspaces/MultiStageDcokerLab/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
+/workspaces/MultiStageDcokerLab/MyApp/obj/Debug/net8.0/ref/MyApp.dll
